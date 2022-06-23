@@ -1,4 +1,4 @@
-# Pagerank__alculator
+# Pagerank__calculator
 A page rank calculator implemented in python
 
 You can try this program withWebgraph from the Google programming contest 2002 available at:
