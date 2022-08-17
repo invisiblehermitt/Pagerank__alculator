@@ -13,4 +13,8 @@ You can try use this program to calculate the page rank of other datasets, but p
 
 The top 10 node with highest page rank will be printed in the terminal, the page rank of all nodes can be found in the file pagerank_result.txt
 
+Definition of Pagerank:
+
+https://en.wikipedia.org/wiki/PageRank
+
 Have fun XD
